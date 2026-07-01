@@ -1,0 +1,16 @@
+Sarvam AI Platform Guide
+
+Sarvam AI is an advanced artificial intelligence platform designed to provide enterprise-grade language models and AI solutions. The platform is built with a focus on accessibility, affordability, and effectiveness.
+
+Key Features:
+1. Multilingual Support: Sarvam AI supports multiple languages including Hindi, Tamil, Telugu, Kannada, and English.
+2. Custom Models: Users can train and deploy custom models tailored to their specific needs.
+3. API Integration: Easy-to-use APIs for seamless integration with existing systems.
+4. Real-time Processing: Fast and efficient processing of large datasets.
+
+Sarvam AI Models:
+- Sarvam-7b: A 7 billion parameter model optimized for efficiency and speed.
+- Sarvam-m: A medium-sized model balancing performance and resource requirements.
+- Sarvam-l: A large model for compute-intensive tasks requiring maximum accuracy.
+
+The platform is designed to democratize access to advanced AI technology, making it available to organizations of all sizes. Whether you're building a chatbot, content generation system, or advanced analytics platform, Sarvam AI provides the tools and infrastructure needed for success.

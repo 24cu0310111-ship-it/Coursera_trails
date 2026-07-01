@@ -1,0 +1,13 @@
+Kolati Dheeraj  
+Nellore  
+
+Dear Hiring Manager,  
+
+I am writing to express my interest in the Intern position at Robolox within the AI engineering domain. I am eager to contribute my skills and experiences to your innovative team, focusing on advancing AI technologies.  
+
+I have designed and deployed machine learning models for various real-world applications, including classification, regression, and natural language processing tasks using Python, TensorFlow, and PyTorch. My experience includes developing and optimizing Large Language Model-based applications utilizing OpenAI APIs, implementing prompt engineering, embeddings, and Retrieval-Augmented Generation architectures. Additionally, I have built end-to-end AI pipelines that encompass data preprocessing, feature engineering, model training, evaluation, and deployment using FastAPI and Docker. My proficiency in implementing RESTful APIs for AI services and working with vector databases such as FAISS and Pinecone has enabled me to enhance semantic search and document retrieval systems effectively.  
+
+I appreciate your consideration of my application and look forward to the opportunity to discuss how my background, skills, and enthusiasm for AI engineering can contribute to the success of Robolox. Thank you for your time, and I hope to hear from you soon.  
+
+Sincerely,  
+Kolati Dheeraj
