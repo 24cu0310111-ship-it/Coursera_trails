@@ -65,7 +65,7 @@ test_queries = [
 
 for query in test_queries:
     print("\n" + "=" * 60)
-    print(f"❓ QUESTION: {query}")
+    print(f"QUESTION: {query}")
     print("=" * 60)
     
     # Run the question through the QA system
@@ -74,3 +74,5 @@ for query in test_queries:
     
     print(f"🤖 ANSWER:\n{answer.strip()}")
     print("-" * 60)
+
+    
